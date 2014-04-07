@@ -1,0 +1,160 @@
+body {
+	font-family: 'Rammetto One' , sans-serif;
+	color: black;
+	background: goldenrod url('http://creativity103.com/collections/Graphic/sunrise_fan.jpg') repeat;
+}
+
+
+
+a {
+	color: red;
+	text-decoration: none;
+	text-shadow: 2px 2px 2px black;
+}
+
+h1 {
+	font-size: 1em;
+	font-weight: 100;
+	letter-spacing: -1.5px;
+}
+
+h2 {
+	font-weight: 100;
+	font-size: 1.500em;
+	color: red;
+	text-shadow: 2px 2px 2px black
+}
+
+h3 {
+	font-weight: 100;
+	font-size: 1.125em;
+	color: black;
+}
+
+.btn {
+	padding: 15px 30px;
+	margin: 40px 0;
+	color: tan;
+	background: red right top;
+	border-radius: 25px;
+	text-transform: uppercase;
+}
+
+.btn:hover {
+	background-color: saddlebrown;
+}
+
+
+.btn-small {
+	padding: 10px 25px;
+	margin: 50px 0;
+	color: tan;
+	font-size: .75em;
+	background: red right bottom;
+	border-radius: 25px;
+	text-transform: uppercase;
+
+}
+
+.btn-small:hover {
+	background-color: saddlebrown;
+}
+
+.submit-btn {
+	padding: 10px 25px;
+	margin: 20px 0 50px 0;
+	color: tan;
+	font-family: 'Rammetto One';
+	border: 0;
+	font-weight: 100;
+	font-size: .75em;
+	background: red;
+	border-radius: 25px;
+	text-transform: uppercase;
+}
+
+ul.nav {
+	margin: 0 auto;
+	padding: 120px 0 0 0;
+	list-style: none;
+	float: right;
+	color: black;
+
+
+}
+
+ul.nav li {
+	float: left;
+	margin-right: 40px;
+}
+
+ul.nav li.last {
+	margin: 0;
+	padding: 10px 25px;
+	border: 0;
+
+	background: red right top;;
+	border-radius: 25px;
+
+}
+
+ul.nav li.last a {
+	text-transform: uppercase;
+	text-shadow: 2px 2px 2px black;	
+	font-weight: 100;
+	font-size: .75em;
+	color: tan;
+}
+
+ul.nav li.last:hover {
+		background-color: saddlebrown;
+}
+
+ul.nav li a {
+	color: black;
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-shadow: none;
+}
+
+#happy-pug {
+	border: 8px solid saddlebrown;
+	width: 400px;
+	height: auto;
+	box-shadow: 2px 2px 2px black;
+	margin-top: 60px;
+}
+#logo {
+	width: 400px;
+	height: auto
+}
+
+#intro {
+	margin: 50px 0 75px 0;
+}
+
+#pug-meetups img {
+	border: 8px solid saddlebrown;
+	margin: 0 0 20px 0;
+	width: 350px;
+	height: auto;
+	box-shadow: 2px 2px 2px black
+}
+
+#featured-pug img {
+	border: 8px solid saddlebrown;
+	box-shadow: 2px 2px 2px black;
+}
+
+#contact span{
+	color: red;
+	font-weight: 600;
+	text-shadow: 2px 2px 2px black;
+}
+
+#copyright {
+	padding: 10px 0;
+	margin: 15px 0;
+	text-align: center;
+}
